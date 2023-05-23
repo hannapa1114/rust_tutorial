@@ -23,4 +23,4 @@ $ cargo check
 $ cargo build --release
 ```
 
-(cargo docs)[https://doc.rust-lang.org/cargo/]
+[cargo docs](https://doc.rust-lang.org/cargo/)
